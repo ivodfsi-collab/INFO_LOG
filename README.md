@@ -8,6 +8,9 @@ Uso de formulas: CONT.VALORES, CONT-SE ,PROCV e CONTESES
 ##Atividade 3: Importação e exportação dados comex stat via microsoft Excel
 Uso de tabela dinâmica e formulas como procv
 <img width="855" height="409" alt="image" src="https://github.com/user-attachments/assets/c09fd705-91a7-4275-b51f-ce297346884e" />
+##Atividade 4: Aplicação de filtros do power bi
+<img width="1885" height="956" alt="image" src="https://github.com/user-attachments/assets/0066f748-dffa-4365-8f46-40148480b8ca" />
+
 
 
 
