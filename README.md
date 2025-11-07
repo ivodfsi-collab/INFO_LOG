@@ -18,3 +18,7 @@ Uso de tabela dinâmica e formulas como procv
 ## Atividade 4: Aplicação de filtros do power bi
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1842ce50-c3f9-4eb5-a520-65c7e010ecd5" />
 
+## Atividade 5:Gráfico de Recessão Linear - Sorvete
+<img width="1417" height="673" alt="image" src="https://github.com/user-attachments/assets/e5b23f8e-8cd0-4be8-8f4f-fbcaca325ac8" />
+
+
