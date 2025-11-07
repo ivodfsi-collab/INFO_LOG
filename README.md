@@ -3,7 +3,7 @@ Atividades de Informática
 ## Ativ 1:Apresentação em equipe no canvas
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8c39b0bc-34dd-407b-a0d5-d92d0910bfa2" />
 
-## Atividade 2: Abnalise exploratória de bares, restaurantes e cafeterias via Microsoft Excel
+## Atividade 2: Análise exploratória de bares, restaurantes e cafeterias via Microsoft Excel
 
 Uso de formulas: CONT.VALORES, CONT-SE ,PROCV e CONTESES
 
@@ -19,12 +19,12 @@ Uso de tabela dinâmica e formulas como procv
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1842ce50-c3f9-4eb5-a520-65c7e010ecd5" />
 
-## Atividade 5:Gráfico de Regressão Linear - Sorvete
+## Atividade 5:Gráfico de Regressão Linear - Sorvete_Python + Excel 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9ec08523-133d-4e8e-95ce-7eb3e6b3f323" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e5b23f8e-8cd0-4be8-8f4f-fbcaca325ac8" />
 
-## Atividade 6:Gráfco de regressão linear, python + Excel- 
+## Atividade 6:Gráfco de regressão linear - Experiência_Salário_Python + Excel 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2f150186-cb2f-49b7-b9b9-1a6fe3c706a3" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e364044-550a-44cf-8f26-1e5aea9ac089" />
