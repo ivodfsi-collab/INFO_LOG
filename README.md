@@ -29,6 +29,6 @@ Uso de tabela dinâmica e formulas como procv
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2f150186-cb2f-49b7-b9b9-1a6fe3c706a3" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e364044-550a-44cf-8f26-1e5aea9ac089" />
 
-Experiêcia vs Salário
+
 
 
