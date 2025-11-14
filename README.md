@@ -29,7 +29,7 @@ Uso de tabela dinâmica e formulas como procv
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9ec08523-133d-4e8e-95ce-7eb3e6b3f323" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e5b23f8e-8cd0-4be8-8f4f-fbcaca325ac8" />
 
-## Atividade 7: Gráfco de regressão linear - Experiência_Salário_Python + Excel 
+## Atividade 7: Gráfico de regressão linear - Experiência_Salário_Python + Excel 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2f150186-cb2f-49b7-b9b9-1a6fe3c706a3" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e364044-550a-44cf-8f26-1e5aea9ac089" />
