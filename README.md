@@ -1,6 +1,6 @@
 # INFO_LOG
 Atividades de Informática
-## Ativ 1:Apresentação em equipe no canvas
+## Ativ 1: Apresentação em equipe no Canvas
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8c39b0bc-34dd-407b-a0d5-d92d0910bfa2" />
 
 ## Atividade 2: Análise exploratória de bares, restaurantes e cafeterias via Microsoft Excel
